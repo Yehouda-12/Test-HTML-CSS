@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: black;
+    line-height: 1.5;
+}
+
+.nav-bar {
+   
+    
+
+    display: block;
+    background-color: #f8f9fa;
+    color: white;
+    padding: 1rem 0;
+    margin-bottom: 0;
+    width: 100%;
+;
+
+
+
+
+
+}
+
+.nav-bar img {
+    font-size: 16px;
+    display: inline-block;
+    width: 50px;
+}
+
+.nav-bar h1 {
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 2rem;
+    color: black;
+}
+
+
+
+.nav-links {
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 15rem;
+    gap: 2rem;
+    list-style: none;
+    text-decoration: none;
+   
+
+
+}
+
+.nav-links li {
+    font-size: 16px;
+    display: inline-block;
+    width: 10em;
+    text-decoration: none;
+    color: black;
+   
+}
+
+.btn-nav {
+  float: right;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+
+main{
+    padding: 15rem;
+    text-align: center;
+
+}
+main h1{
+    padding-bottom: 50px;
+}
+.card-chat{
+     text-align: left;
+    width: 100%;
+    height: auto;
+    border:  gray solid 1px ;
+    padding: 10px;
+    
+     border-radius:  40px 40px 
+}
+
+.input-field{
+   
+    width: 100%;
+    border: none;
+    background-color:  #f5f7fa;
+ 
+}
+
+.btn-under{
+      border-radius:  40px 40px ;
+
+     padding: 3px;
+     cursor: pointer;
+    
+}
+.voice{
+  border-radius:  40px 40px ;
+
+     padding: 3px;
+     margin-left: 250px;
+     cursor: pointer;
+
+}
